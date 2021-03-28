@@ -1,6 +1,7 @@
 
 from urllib.request import urlopen
 import sys
+import requests
 import BeautifulSoup as bs
 from StringFunctions import write2file
 import StringFunctions as sf
